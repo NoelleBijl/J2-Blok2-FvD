@@ -59,10 +59,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
 </details>
-- Rituals gebruikt niet vaak headings. Soms gebruiken ze alleen een h2 of niets. Ik vind het niet altijd duidelijk wat wat is, ze begruiken dan bijvoorbeeld een span in plaats van een h1.
+- Rituals gebruikt niet vaak headings. Soms gebruiken ze alleen een h3 of niets. Ik vind het niet altijd duidelijk wat wat is, ze begruiken dan bijvoorbeeld een span in plaats van een h.
 - Rituals maakt veel gebruik van div. Ze gebruiken vaak een div in een div in een div, etc.
 - De meeste img hebben een duidelijke alt tekst. De video's niet
-- Dark en light mode wordt niet ondersteund
+- Er is geen dark mode of high-contrast modus beschikbaar. Dit zou de toegankelijkheid van de website nog meer omhoog kunnen krijgen.
 
 
 ## Breakdownschets (week 1)
