@@ -191,10 +191,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken voor eindgesprek</summary>
 
-  ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
-
-
   ### Dit ging goed/Heb ik geleerd: 
   Tijdens deze opdracht heb ik veel geleerd over het responsive maken van een website. Ik begrijp nu goed hoe en waar je flex en grid moet gebruiken en hoe je het met de media query responsive kunt maken. Verder heb ik ook nieuwe theorie opgedaan, zoals hoe je makkelijk <details> en <summary> en dropdownlist kan maken, en heb ik ontdekt hoe ik slimmer en efficiënter kan werken met CSS. Ik ben tevreden met het eindresultaat en dat hij responsive goed werkt. 
 
