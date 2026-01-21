@@ -58,7 +58,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 - Rituals gebruikt niet vaak headings. Soms gebruiken ze alleen een h3 of niets. Ik vind het niet altijd duidelijk wat wat is, ze begruiken dan bijvoorbeeld een span in plaats van een h.
 
-- Rituals maakt veel gebruik van div. Ze gebruiken vaak een div in een div in een div, etc.
+- Rituals maakt veel gebruik van div. Ze gebruiken vaak een div in een div in een div, etc. Dit is erg onduidelijk en ze gebruiken hierdoor ook heel erg veel onnodige classes
 
 - Tijdens het testen met de screenreader merkte ik dat sommige afbeeldingen werden overgeslagen, dus ze werden niet verteld. De meeste img in de code hebben een wel alt tekst, maar de alt teksten waren wel lastig te vinden omdat er erg veel andere teksten bij stonden. 
 
