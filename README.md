@@ -60,7 +60,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 - Rituals maakt veel gebruik van div. Ze gebruiken vaak een div in een div in een div, etc.
 
-- De meeste img hebben een duidelijke alt tekst. De video's niet
+- Tijdens het testen met de screenreader merkte ik dat sommige afbeeldingen werden overgeslagen, dus ze werden niet verteld. De meeste img in de code hebben een wel alt tekst, maar de alt teksten waren wel lastig te vinden omdat er erg veel andere teksten bij stonden. 
 
 - Er is geen dark mode of high-contrast modus beschikbaar. Dit zou de toegankelijkheid van de website nog meer omhoog kunnen krijgen.
 
