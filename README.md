@@ -54,7 +54,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Lijst met bevindingen die in de test naar voren kwamen:
 
 - Rituals gebruikt niet vaak headings. Soms gebruiken ze alleen een h3 of niets. Ik vind het niet altijd duidelijk wat wat is, ze begruiken dan bijvoorbeeld een span in plaats van een h.
 
